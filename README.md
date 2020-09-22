@@ -9,3 +9,7 @@ Updates made on master on Git Gub before rebase
 
 This file is just a readme file.
 dfasdf ad 
+
+## Getting Started
+
+blad;flahoiflksadfj;lasjdfoiadjsfasdf
